@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚗 CAN-Based Vehicle Monitoring System
+# 🚗 Automotive Parameter Monitoring Using CAN
 
 ### Real-Time Distributed Automotive Monitoring Using LPC2129 and CAN Protocol
 
